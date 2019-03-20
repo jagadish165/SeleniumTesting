@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1376613" started-at="2019-03-18T17:09:26Z" finished-at="2019-03-18T17:32:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1376613" started-at="2019-03-18T17:09:26Z" finished-at="2019-03-18T17:32:22Z">
+      <class name="SeleniumTesting.Selenium.AppTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:SeleniumTesting.Selenium.AppTest@27efef64]" name="beforeTest" is-config="true" duration-ms="6861" started-at="2019-03-18T17:09:26Z" finished-at="2019-03-18T17:09:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testEasy()[pri:0, instance:SeleniumTesting.Selenium.AppTest@27efef64]" name="testEasy" duration-ms="1369692" started-at="2019-03-18T17:09:33Z" finished-at="2019-03-18T17:32:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:SeleniumTesting.Selenium.AppTest@27efef64]" name="afterTest" is-config="true" duration-ms="1" started-at="2019-03-18T17:32:22Z" finished-at="2019-03-18T17:32:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- SeleniumTesting.Selenium.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
