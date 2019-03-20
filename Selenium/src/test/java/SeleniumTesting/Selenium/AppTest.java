@@ -28,7 +28,7 @@ public class AppTest {
 		@Test				
 		public void testEasy() throws IOException {	
 			
-	        System.out.println( "Hello World!" );
+	        System.out.println( "Hello World" );
 	        driver.get("http://www.smallcase.com");
 	        driver.findElement(By.linkText("Log in with your broker")).click();
 	        driver.findElement(By.xpath("//*[@id='__next']/div[4]/div[2]/div/div[1]/div[2]/div/div[1]/a[7]/div")).click();
